@@ -5,6 +5,18 @@
             "name": "http://127.0.0.1:3000/contact.html",
             "request": "launch",
             "url": "http://127.0.0.1:3000/contact.html"
+        },
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3000/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/index.html"
+        },
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3002/c:/Users/USER/Downloads/PestKit-1.0.0/PestKit-1.0.0/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3002/c:/Users/USER/Downloads/PestKit-1.0.0/PestKit-1.0.0/index.html"
         }
     ]
 }
